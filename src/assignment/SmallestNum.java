@@ -16,6 +16,9 @@ public class SmallestNum {
       
       temp= a<b?a:b;
       smallest=c<temp?c:temp;
+      if(a==b&&b==c&&c==a) {
+    	  System.out.println("All the Three number are same\n");
+      }
       
       System.out.println("Smallest number is\n"+smallest);
      
