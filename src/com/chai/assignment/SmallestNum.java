@@ -1,4 +1,4 @@
-package assignment;
+package com.chai.assignment;
 import java.util.Scanner;
 public class SmallestNum {
 

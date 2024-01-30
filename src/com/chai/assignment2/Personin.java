@@ -1,6 +1,6 @@
-package com.package2.rama;
+package com.chai.assignment2;
 
-import assignment1.*;
+import com.chai.assignment1.*;
 public class Personin {
 
 	public static void main(String[] args) {

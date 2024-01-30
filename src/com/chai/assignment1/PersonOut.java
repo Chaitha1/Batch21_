@@ -1,4 +1,4 @@
-package assignment1;
+package com.chai.assignment1;
 
 public class PersonOut {
 

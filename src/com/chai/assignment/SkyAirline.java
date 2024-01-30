@@ -1,4 +1,4 @@
-package assignment;
+package com.chai.assignment;
 
 public class SkyAirline {
 
