@@ -1,4 +1,4 @@
-package com.package1.rama;
+package assignment1;
 
 public class Base {
 	

@@ -1,7 +1,6 @@
 package com.package2.rama;
 
-// import the package
-import com.package1.rama.*;
+import assignment1.*;
 public class Personin {
 
 	public static void main(String[] args) {
